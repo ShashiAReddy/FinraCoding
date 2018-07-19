@@ -1,5 +1,4 @@
-# Finra code challenges
-
+# Finra Order Placement
 # Project architecture and software design document:
 
 I created the the entity classes in the location: \order-placement\src\main\java\com\findra\orderplacement\entity
